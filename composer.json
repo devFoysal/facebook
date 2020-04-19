@@ -1,0 +1,14 @@
+{
+    "name": "foysal68/facebook",
+    "description": "Simple package",
+    "type": "larave",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Foysal Mahmud",
+            "email": "foysal.km68@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
